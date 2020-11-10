@@ -6,7 +6,7 @@ This is a submission in creating an android application, and I have done it well
 
 Clone repository and place this file into your android studio
 
-<code> git clone https://github.com/iam-damar/Dicoding-Android-Submission.git</code>
+```git clone https://github.com/iam-damar/Dicoding-Android-Submission.git</code>```
 
 # Tampilan -- Display
 

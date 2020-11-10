@@ -6,9 +6,7 @@ This is a submission in creating an android application, and I have done it well
 
 Clone repository and place this file into your android studio
 
-function test() {
-  console.log("git clone ");
-}
+<code>ddd</code>
 
 # Tampilan -- Display
 

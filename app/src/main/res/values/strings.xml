@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KulinerAndroidPemulaDamar</string>
+    <string name="my_ownnames">Damar Djati Wahyu Kemala</string>
+    <string name="my_ownemails">damar.3006@students.amikom.ac.id</string>
+    <string name="tentang_ku">Tentangku</string>
+    <string name="nama_Makanankuliner">Nama Makanan Kuliner</string>
+    <string name="details">Detail</string>
+    <string name="judulKuliner">Judul Makanan Kuliner</string>
+    <string name="KeteranganMakanan">Keterangan Makanan</string>
+    <string name="hargaMakanan">Harga Makanan</string>
+    <string name="follow_me_on_github">Follow Me on Github</string>
+    <string name="github_com_iam_damar">github.com/iam-damar</string>
+    <string name="image">Image</string>
+</resources>

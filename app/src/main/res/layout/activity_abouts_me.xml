@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutsMe" android:orientation="vertical">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/img_profile"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/damarasisten"
+        android:layout_marginBottom="16dp"
+        android:layout_marginTop="90dp"/>
+
+    <TextView
+        android:text="@string/my_ownnames"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="@android:color/black"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/my_ownemails"
+        android:textColor="@color/black"
+        android:textSize="17sp"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:textSize="17sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/holo_green_dark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/follow_me_on_github"/>
+
+    <TextView
+        android:text="@string/github_com_iam_damar"
+        android:gravity="center"
+        android:textColor="@android:color/holo_blue_dark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:linksClickable="true"
+        android:autoLink="web"/>
+
+</LinearLayout>

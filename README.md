@@ -23,10 +23,10 @@ The android interface consists of:
 ## :point_down: Examples are below
 
 <p float="left">
-<img src="https://user-images.githubusercontent.com/61747306/98645955-44ed3f00-2365-11eb-9019-198b08c58894.jpg" width="250" />
-<img src="https://user-images.githubusercontent.com/61747306/98645967-46b70280-2365-11eb-9210-0ea0f3c0b788.jpg" width="250" />
-<img src="https://user-images.githubusercontent.com/61747306/98912053-27041380-24f8-11eb-92e4-8d530cb4f80b.jpg" width="250" />
-<img src="https://user-images.githubusercontent.com/61747306/98645972-4880c600-2365-11eb-8d1c-0e387baf41e6.jpg" width="250" />
+<img src="https://user-images.githubusercontent.com/61747306/98645955-44ed3f00-2365-11eb-9019-198b08c58894.jpg" width="200" />
+<img src="https://user-images.githubusercontent.com/61747306/98645967-46b70280-2365-11eb-9210-0ea0f3c0b788.jpg" width="200" />
+<img src="https://user-images.githubusercontent.com/61747306/98912053-27041380-24f8-11eb-92e4-8d530cb4f80b.jpg" width="200" />
+<img src="https://user-images.githubusercontent.com/61747306/98645972-4880c600-2365-11eb-8d1c-0e387baf41e6.jpg" width="200" />
 </p>
 
 ## :boy: Published by
